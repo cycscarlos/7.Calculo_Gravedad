@@ -1,0 +1,20 @@
+/*: Estilos de la clase de Javascript */
+
+.box h3 {
+  color: var(--color-title);
+  padding: 0;
+  margin-bottom: 10px;
+}
+.box p {
+  margin-bottom: 50px;
+}
+.azul {
+  color: var(--color-main);
+}
+.azul span {
+  color: white;
+}
+.rojo {
+  color: red;
+  font-size: 1.5em;
+}
