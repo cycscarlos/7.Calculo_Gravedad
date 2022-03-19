@@ -3,10 +3,10 @@
 .box h3 {
   color: var(--color-title);
   padding: 0;
-  margin-bottom: 10px;
+  margin-bottom: 0.625rem;
 }
 .box p {
-  margin-bottom: 50px;
+  margin-bottom: 3.125rem;
 }
 .azul {
   color: var(--color-main);
